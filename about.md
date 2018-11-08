@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#
 
+* I LOVE fries
+* I LOVE fallout 4
+* I LOVE Deacon and Nick Valentine.
+
+#
+
+* Workouts
+* Army
+* Secret agent from 935 but nobody knows...
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+don't
