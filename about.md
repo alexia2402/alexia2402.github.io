@@ -7,17 +7,8 @@ permalink: /about/
 
 ### More Information
 
-#
+I'm pretty laid back :)
 
-* I LOVE fries
-* I LOVE fallout 4
-* I LOVE Deacon and Nick Valentine.
-
-#
-
-* Workouts
-* Army
-* Secret agent from 935 but nobody knows...
 ### Contact me
 
 don't
